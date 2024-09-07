@@ -13,22 +13,28 @@ Mobile app platform: Android
 Mobile device or emulator: Ensure the availability of a suitable device or emulator for testing.
 
 Tasks 101: Mahfil App Testing
+
 User Authentication:
 Test the user authentication process by verifying that users can successfully sign up and log in.
 Ensure that password recovery functionality, if available, works as expected.
+
 Content Categories:
 Explore and verify that content categories such as waz, nasheed, tilawat, Islamic shorts, short films, halal documentaries, and funny videos are accessible and correctly organized.
+
 Video Streaming:
 Test the video streaming functionality for different types of content.
 Verify that videos load quickly and play smoothly without buffering issues.
 Check for features like pause, play, and autoplay.
+
 Unique Video Content:
 Verify that the content available on the app is unique and aligns with Islamic principles.
 Check for any duplicate or inappropriate content.
+
 Download Functionality:
 Test the download functionality for videos.
 Verify that users can download videos for offline viewing.
 Confirm that downloaded videos play correctly without any issues.
+
 Search and Filters:
 Test the search functionality to ensure users can find specific content.
 Verify that filters (e.g., by category, date, or popularity) work as expected.
